@@ -1,4 +1,4 @@
-from mymath import addNumbers
+from mymath import add_numbers
 from person import Person
 
 name = "kamil"
@@ -18,7 +18,7 @@ if __name__ == '__main__':
     print("Ola")
     stuname = "Ahmed"
     print("%s" % stuname)
-    print(addNumbers(4, 3))
+    print(add_numbers(4, 3))
     alex_method("ali")
 
 # This is a sample Python script.
