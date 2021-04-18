@@ -4,7 +4,7 @@ from person import Person
 name = "kamil"
 name1 = 'Jamila'
 
-def Ola(name: str):
+def ola(name: str):
     print(name.upper())
 
 def alex_method(name):
