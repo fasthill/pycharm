@@ -5,13 +5,14 @@ name = "kamil"
 name1 = 'Jamila'
 name2 = 'kora'
 name3 = 'korea'
+name4 = "kk"
 
 def ola(name: str):
     print(name.upper())
 
 def alex_method(name):
-    p = Person(name)
-    print(p)
+    person1 = Person(name)
+    print(person1)
 
 if __name__ == '__main__':
     # todo : fix bug here
@@ -20,8 +21,10 @@ if __name__ == '__main__':
     print("Ola")
     stuname = "Ahmed"
     print("%s" % stuname)
+
     print(add_numbers(4, 3))
     alex_method("ali")
+
 
 # This is a sample Python script.
 
