@@ -6,6 +6,7 @@ name1 = 'Jamila'
 name2 = 'kora'
 name3 = 'korea'
 name4 = "kk"
+name5 = "oo"
 
 def ola(name: str):
     print(name.upper())
