@@ -3,6 +3,7 @@ from person import Person
 
 name = "kamil"
 name1 = 'Jamila'
+name2 = "koea"
 
 def ola(name: str):
     print(name.upper())
